@@ -1,10 +1,10 @@
-# pokemon-vue-app
+# Pokemon-vue-app
 
-This template should help get you started developing with Vue 3 in Vite.
+Project developed in Vuejs that presents information about Pokémon through the consumption of an API [PokeApi](https://pokeapi.co)
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+[VSCode](https://code.visualstudio.com/)
 
 ## Customize configuration
 
@@ -20,16 +20,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
