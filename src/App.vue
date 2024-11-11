@@ -1,8 +1,11 @@
 <template>
-    <HomeSection />
+  <Home />
 </template>
 
 <script setup>
-import HomeSection from './components/HomeSection.vue';
-
+import Home from './views/Home.vue';
 </script>
+
+<style scoped>
+
+</style>
