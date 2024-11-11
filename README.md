@@ -27,9 +27,8 @@ Follow these steps to get the project up and running on your local machine:
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone <repository URL>
-cd <repository name>
-Replace <repository URL> with the URL of your project (for example, https://github.com/username/repository-name.git), and <repository name> with the folder name that is created after cloning the repository.
+git clone <https://github.com/aleegz/pokemon-vue-app>
+cd <pokemon-vue-app>
 ```
 
 ### Install dependencies:
