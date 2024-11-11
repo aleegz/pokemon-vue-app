@@ -2,8 +2,10 @@
 
 Project developed in Vuejs that presents information about Pokémon through the consumption of an API [PokeApi](https://pokeapi.co)
 
-<img src="https://raw.githubusercontent.com/aleegz/pokemon-vue-app/refs/heads/master/public/pokeball.png" alt="Pokeball" width="100" height="100">
-<img src="https://vuejs.org/images/logo.png" alt="Vue logo" width="100" height="100">
+<p>
+ <img src="https://raw.githubusercontent.com/aleegz/pokemon-vue-app/refs/heads/master/public/pokeball.png" alt="Pokeball" width="100" height="100" style="display: inline-block; margin-right: 10px;">
+<img src="https://vuejs.org/images/logo.png" alt="Vue logo" width="100" height="100" style="display: inline-block; margin-right: 10px;">
+</p>
 
 ## Prerequisites
 
@@ -20,6 +22,7 @@ npm -v
 ```
 
 ## Installation
+
 Follow these steps to get the project up and running on your local machine:
 
 ### Clone the repository:
@@ -27,8 +30,8 @@ Follow these steps to get the project up and running on your local machine:
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone <https://github.com/aleegz/pokemon-vue-app>
-cd <pokemon-vue-app>
+git clone https://github.com/aleegz/pokemon-vue-app
+cd pokemon-vue-app
 ```
 
 ### Install dependencies:
@@ -44,6 +47,7 @@ This will download and install all the necessary dependencies listed in the pack
 ```
 
 ### Running the Project
+
 After the dependencies are installed, you can run the project in development mode:
 
 Start the development server:
@@ -71,6 +75,7 @@ This will generate the production-ready files inside the dist/ folder, ready to 
 ```
 
 ### Available Scripts
+
 This project includes the following npm (or Yarn) scripts:
 
 `npm run dev` or `yarn dev`: Starts the development server.
