@@ -2,6 +2,8 @@
 
 Project developed in Vuejs that presents information about Pokémon through the consumption of an API [PokeApi](https://pokeapi.co)
 
+You can see the project from the following [link](https://pokeapi.co)
+
 <p>
  <img src="https://raw.githubusercontent.com/aleegz/pokemon-vue-app/refs/heads/master/public/pokeball.png" alt="Pokeball" width="100" height="100" style="display: inline-block; margin-right: 10px;">
 <img src="https://vuejs.org/images/logo.png" alt="Vue logo" width="100" height="100" style="display: inline-block; margin-right: 10px;">
@@ -40,9 +42,11 @@ Once the project is cloned, navigate to the project directory and install the re
 
 ```bash
 npm install
+
 Or, if you prefer Yarn:
 
 yarn install
+
 This will download and install all the necessary dependencies listed in the package.json file.
 ```
 
@@ -56,9 +60,11 @@ To start the Vue 3 development server, run the following command:
 
 ```bash
 npm run dev
+
 Or with Yarn:
 
 yarn dev
+
 The server will be available at http://localhost:5173 by default. You should be able to see the application running in your browser.
 ```
 
@@ -68,9 +74,11 @@ If you want to create an optimized production build of the project, run:
 
 ```bash
 npm run build
+
 Or with Yarn:
 
 yarn build
+
 This will generate the production-ready files inside the dist/ folder, ready to be deployed.
 ```
 
