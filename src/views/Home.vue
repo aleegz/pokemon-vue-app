@@ -8,6 +8,7 @@
 import { ref } from 'vue';
 import Search from '../components/Search.vue';
 import CardList from '../components/CardList.vue';
+import DataTable from '../components/DataTable.vue'; // Alternativa a Cardlist
 
 const searchQuery = ref('');
 
