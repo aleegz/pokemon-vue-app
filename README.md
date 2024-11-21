@@ -2,7 +2,7 @@
 
 Project developed in Vuejs that presents information about Pokémon through the consumption of an API [PokeApi](https://pokeapi.co)
 
-You can see the project from the following [link](https://pokeapi.co)
+You can see the project from the following [link](https://aleegz.github.io/pokemon-vue-app/)
 
 <p>
  <img src="https://raw.githubusercontent.com/aleegz/pokemon-vue-app/refs/heads/master/public/pokeball.png" alt="Pokeball" width="100" height="100" style="display: inline-block; margin-right: 10px;">
